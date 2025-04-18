@@ -175,7 +175,7 @@ p.note { display: none; }
 <a href="20250418_028.JPG" target="_blank"><img src="20250418_028.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">一瞬ですが、ひばりが泣きました。イベント開催中のお兄さんの声も入っちゃってます<br>画像クリックで短い動画再生します↓</span></h2>
-<a href="20250418_029.mov" target="_blank"><img src="20250418_029.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20250418_029.mov" target="_blank"><img src="20250518_029.jpg" alt="サンプル画像" width="900" /></a>
 
     
 <h2><span class="yellow">市貝町、芝桜公園、GoogleMapsの埋め込みです</span></h2>
