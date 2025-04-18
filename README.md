@@ -255,7 +255,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、図書館の森でウグイスのさえずりと庭のお花達でした。<br>ここまでご覧いただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、市貝町芝桜公園の芝桜達でした。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
