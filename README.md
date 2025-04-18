@@ -173,6 +173,10 @@ p.note { display: none; }
     
 <h2><span class="yellow">芝桜バックに、展望台の上からパチリ！</span></h2>
 <a href="20250418_028.JPG" target="_blank"><img src="20250418_028.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">一瞬ですが、ひばりが泣きました。イベント開催中のお兄さんの声も入っちゃってます<br>画像クリックで短い動画再生します↓</span></h2>
+<a href="20250418_029.mov" target="_blank"><img src="20250418_029.jpg" alt="サンプル画像" width="900" /></a>
+
     
 <h2><span class="yellow">市貝町、芝桜公園、GoogleMapsの埋め込みです</span></h2>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1744958722286!6m8!1m7!1sVkFlQ4XYqy4N2ICTtDWgGA!2m2!1d36.61302256993892!2d140.1098195847125!3f48.634784388009805!4f-0.15469564953522763!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
