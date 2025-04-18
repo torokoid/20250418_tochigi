@@ -174,7 +174,7 @@ p.note { display: none; }
 <h2><span class="yellow">芝桜バックに、展望台の上からパチリ！</span></h2>
 <a href="20250418_028.JPG" target="_blank"><img src="20250418_028.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">一瞬ですが、ひばりが泣きました。イベント開催中のお兄さんの声も入っちゃってます<br>画像クリックで短い動画再生します↓</span></h2>
+<h2><span class="yellow">一瞬ですが、ひばりが泣きました<br>画像クリックで短い動画再生します↓ イベント開催中のお兄さんの声も入っちゃってます</span></h2>
 <a href="20250418_029.mov" target="_blank"><img src="20250518_029.jpg" alt="サンプル画像" width="900" /></a>
 
     
